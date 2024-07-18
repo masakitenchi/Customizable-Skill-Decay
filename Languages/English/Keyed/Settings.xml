@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<DailyExpThresholdLabel>Daily Exp Threshold</DailyExpThresholdLabel>
+	<AddPointAt>Add point at ({0} - {1})</AddPointAt>
+	<MovePointTo>Move point at ({0} - {1}) to ({2} - {3})</MovePointTo>
+	<RemovePointAt>Remove point at ({0} - {1})</RemovePointAt>
+</LanguageData>

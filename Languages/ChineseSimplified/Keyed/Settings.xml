@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<DailyExpThresholdLabel>每日经验上限</DailyExpThresholdLabel>
+	<AddPointAt>在 ({0} - {1}) 添加节点</AddPointAt>
+	<MovePointTo>将 ({0} - {1}) 处的节点移至 ({2} - {3})</MovePointTo>
+	<RemovePointAt>移除 ({0} - {1}) 处的节点</RemovePointAt>
+</LanguageData>

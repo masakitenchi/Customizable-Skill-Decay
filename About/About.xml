@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+	<name>Customizable Skill Decay</name>
+	<author>Masakitenchi</author>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<packageId>regex.customizableskill</packageId>
+	<description>Ever wonder why all skills share the same decay rule and daily threshold? Then this mod is for you. Highly customizable.\nWarning: Not compatible with mad skills &amp; endless growth!</description>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+	<incompatibleWith>
+		<li>ratys.madskills</li>
+		<li>slimesenpai.endlessgrowth</li>
+	</incompatibleWith>
+</ModMetaData>
